@@ -1,3 +1,3 @@
 # hello-world
-High_performance_solvers_for_contact_mechanics_thesis
+thesis_contact
 Master's thesis on high performance solvers in contact mechanics
